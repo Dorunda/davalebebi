@@ -1,0 +1,25 @@
+#wrestling1{
+    color: blue;
+    background-color: aqua;
+    text-shadow: 2px 5px 10px;
+    font-family: ('https://fonts.googleapis.com/css2?family=Bpmf+Huninn&display=swap')
+    
+
+}
+#wrestling2{
+    color: black;
+    background-color: red;
+    text-shadow: 1px 2px 5px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#wrestling3{
+    color: blueviolet;
+    background-color: blue;
+    text-shadow: 2px 2px 10px;
+    font-family: monospace;
+
+}
+#body1{
+    background-color: green;
+}

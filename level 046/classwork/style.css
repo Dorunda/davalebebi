@@ -1,0 +1,31 @@
+table thead{
+    background-color: linear-gradient(90deg, #2ecc71, #1abc9c);
+    color: white;
+}
+th{
+    background-color: #04b079;
+    padding: 10px;
+}
+tr:nth-child(2){
+    color: #27ae60;
+    font-weight: bold;
+}
+table{
+    border-bottom: 3px solid #1abc9c;
+}
+table{
+    border-collapse: collapse;
+    width: 100;
+    border-radius: 10px;
+
+}
+td, th{
+    text-align: center;
+    padding: 10px;
+}
+td{
+    border-bottom: 1px solid green;
+}
+table{
+    border-radius: 10px;
+}

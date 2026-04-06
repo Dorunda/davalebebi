@@ -1,0 +1,10 @@
+tbody tr:nth-child(1){
+  background-color: #d15cf7; 
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+tbody tr:nth-child(3){
+  background-color: #d15cf7; 
+}

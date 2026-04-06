@@ -1,0 +1,29 @@
+th{
+    background-color: #04b079;
+    
+}
+
+
+
+td, th{
+    text-align: center;
+    
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+table thead{
+    background-color: #07632f;
+}
+tbody tr {
+  border-bottom: 1px solid #ddd;
+}
+tbody tr:nth-child(1) {
+  background-color: #a0ada6; 
+}
+th, td{
+    text-align: left;
+}

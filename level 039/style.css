@@ -1,0 +1,19 @@
+#gamarjoba{
+    color: rgb(rgb(0, 81, 255), green, blue)
+}
+p{
+    color: blue;
+    background-color: green;
+}
+.h1{
+    color: rgb(255, 255, 0);
+    background-color: rgb(red, black, blue)
+
+}
+#hello{
+    color: #02573A;
+    background-color: #87087A;
+}
+
+/*css priority არის ანუ როდესაც ერთსა და იმავე ელემენტზე რამდენიმე css წესი მოქმედებს და რომელიც მაღალია ის ჩაითლება საბოლოოდ
+/*პირველია inline style მეორეა id მესამეა classes მეოთხე არის elements 

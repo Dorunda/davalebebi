@@ -1,0 +1,28 @@
+#div1{
+    padding: 20px;
+    width: 400px;
+    height: 350px;
+    border: 2px solid;
+    
+}
+#div2{
+    background-color: rgb(12, 226, 12);
+    border: 2px solid rgb(0, 80, 0);
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+#div3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    height: 200px;
+    width: 400px;
+    margin-top: 50px;
+    background-color: yellow;
+    font-size: xx-large;
+    
+
+}
+

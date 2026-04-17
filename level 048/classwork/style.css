@@ -1,0 +1,21 @@
+#div1{
+    padding: 20px;
+    width: 350px;
+    border: 2px solid;
+    background-color: rgb(100, 100, 100);
+}
+#div2{
+    padding: 20px;
+    border: 2px solid;
+    background-color: rgb(121, 120, 120);
+}
+#div3{
+    background-color: rgb(141, 138, 138);
+    padding: 20px;
+
+}
+#div4{
+    background-color: rgb(150, 146, 146);
+    text-align: center;
+    padding: 10px;
+}

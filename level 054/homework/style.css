@@ -1,0 +1,9 @@
+.div1{
+    width: 250px;
+    height: 100vh;
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

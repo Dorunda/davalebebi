@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#parent{
+    height: 400px;
+    width: 400px;
+    border: solid black 2px;
+    display: flex;
+    
+}
+.child{
+    background-color: green;
+    width: 200px;
+    border: 2px solid black;
+}
+
+#div1{
+    display: flex;
+    flex-shrink: 3;
+    height: 200px;
+    width: 200px;
+    
+    
+    
+}
+#div2{
+    display: flex;
+    flex-shrink: 3;
+    height: 200px;
+    width: 200px;
+    
+    
+}
+#div3{
+    display: flex;
+    flex-shrink: 0;
+    width: 300px;
+}
+

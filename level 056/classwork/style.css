@@ -1,0 +1,44 @@
+body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #111;
+    }
+
+    .parent {
+      position: relative;
+      width: 500px;
+      height: 500px;
+      background: rgb(187, 2, 39); 
+    }
+
+    .yuti {
+      position: absolute;
+      width: 200px;
+      height: 200px;
+    }
+
+   
+    .yellow {
+      background: yellow;
+      top: 4;
+      right: 0;
+    }
+
+   
+    .cyan {
+      background: #22d3d3;
+      left: 3;
+      top: 20%;
+      
+    }
+
+   
+    .purple {
+      background: purple;
+      bottom: 0;
+      left: 40%;
+      
+    }

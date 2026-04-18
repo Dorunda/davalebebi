@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#parent{
+    background-color: red;
+    width: 800px;
+    border: solid black 2px;
+    
+}
+.child{
+    width: 100px;
+    border: 2px solid black;
+}
+#div1{
+    
+    flex-grow: 1;
+}
